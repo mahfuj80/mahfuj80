@@ -78,8 +78,11 @@ I am a Front-End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <a href="https://www.buymeacoffee.com/mahfuj80">
     <img src="https://github.com/mahfuj80/mahfuj80/assets/69657153/52ab07a6-824b-4ef0-af81-8a7c5b257726" alt="Coffee-Mug" width="200"/>
 </a>
+<a href="https://www.buymeacoffee.com/mahfuj80">
+      <img src="https://github.com/mahfuj80/mahfuj80/assets/69657153/52ab07a6-824b-4ef0-af81-8a7c5b257726?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
 
-
+&nbsp; <a href="https://www.buymeacoffee.com/mahfuj80" target="_blank" rel="noopener noreferrer"><img src="https://github.com/mahfuj80/mahfuj80/assets/69657153/52ab07a6-824b-4ef0-af81-8a7c5b257726" width="50" /></a> 
 
 
 
