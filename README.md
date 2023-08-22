@@ -79,6 +79,11 @@ I am a Front-End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
     <img src="https://github.com/mahfuj80/mahfuj80/assets/69657153/52ab07a6-824b-4ef0-af81-8a7c5b257726" alt="Coffee-Mug" width="200"/>
 </a>
 
+
+
+
+
+[![Top Langs](https://github.com/mahfuj80/mahfuj80/assets/69657153/52ab07a6-824b-4ef0-af81-8a7c5b257726)](https://www.buymeacoffee.com/mahfuj80)
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
