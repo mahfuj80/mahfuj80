@@ -16,21 +16,19 @@
 <h1>About Me :
   <img src = "https://github.com/mahfuj80/mahfuj80/assets/69657153/71aa4f5f-4c26-4078-a14f-9a2142462c01" width="40px" height="40px">
 </h1>
-I am a Front-End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" display="inline"/>from Bangladesh.
+I am a Front-End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" inline/>from Bangladesh.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- 🌱 Exploring Technical Content Writing.
 
-- :zap: I solve problems on GeeksforGeeks and read tech articles in my free time.
+- ⚡ I solve problems on GeeksforGeeks and read tech articles in my free time.
 
-- :mailbox:How to reach me: mahfujurrahman06627@gmal.com
+- 📫 How to reach me- mahfujurrahman06627@gmal.com
 
 ---
 
-### :hammer_and_wrench:
-
-<h2>Languages and Tools
+<h2>🛠️Languages and Tools
   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 </h2>
 
