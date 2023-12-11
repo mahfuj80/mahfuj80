@@ -152,7 +152,7 @@
 <h1>About Me :
   <img src = "./assets/images/AboutMe.gif" width="40px" height="40px">
 </h1><br>
-I am a Front-End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" inline/>from Bangladesh.
+<p>I am a Front-End Developer from Bangladesh. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" inline/></p>
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
