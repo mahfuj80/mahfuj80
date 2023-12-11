@@ -4,13 +4,13 @@
 </div><br>
 
 <!-- Github Status -->
-<h2> 
+<h2>
   My GitHub Stats
-  <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="30px" height="30px"> 
+  <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="30px" height="30px">
 </h2>
 <br><br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahfuj80&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahfuj80&theme=transparent" alt="GitHub Streak"/>
 </div><br><br>
 
 <!-- Contact With Me -->
@@ -21,43 +21,43 @@
 
 <p align="center">
   <!-- Dev-Community -->
-    <a href="https://dev.to/mahfujurrahman" target="blank">
-      <img align="center" src="./assets/images/Social/devTo.svg" alt="mahfujurrahman" height="50" width="40" />
+    <a href="https://dev.to/mahfujurrahman">
+     <img align="center" src="./assets/images/Social/devTo.svg" alt="mahfujurrahman" height="50" width="40"/>
     </a>
   <!-- Twitter -->
-  <a href="https://twitter.com/Mahfuj_A_A_" target="blank" margin="2">
+  <a href="https://twitter.com/Mahfuj_A_A_">
     <img align="center" src="./assets/images/Social/twitter.svg" alt="twitter" height="50" width="40"/>
   </a>
   <!-- Linkedin -->
-  <a href="https://www.linkedin.com/in/mahfujur-rahman-632590202/" target="blank">
-    <img align="center" src="./assets/images/Social/linkedin.svg" alt="Linkedin" height="50" width="40" />
+  <a href="https://www.linkedin.com/in/mahfujur-rahman-632590202/">
+    <img align="center" src="./assets/images/Social/linkedin.svg" alt="Linkedin" height="50" width="40"/>
   </a>
   <!-- Stack-Overflow -->
-  <a href="https://stackoverflow.com/users/19129869/mahfujur-rahman" target="blank">
-    <img align="center" src="./assets/images/Social/stack-overflow.svg" height="50" width="40" />
+  <a href="https://stackoverflow.com/users/19129869/mahfujur-rahman">
+    <img align="center" src="./assets/images/Social/stack-overflow.svg" height="50" width="40"/>
   </a>
   <!-- Facebook -->
-  <a href="https://www.facebook.com/mahfujurrahman06627/" target="blank">
-    <img align="center" src="./assets/images/Social/facebook.svg" alt="Facebook" height="50" width="40" />
+  <a href="https://www.facebook.com/mahfujurrahman06627">
+    <img align="center" src="./assets/images/Social/facebook.svg" alt="Facebook" height="50" width="40"/>
   </a>
   <!-- Instagram -->
-  <a href="https://www.instagram.com/mahfujur887/" target="blank">
+  <a href="https://www.instagram.com/mahfujur887">
     <img align="center" src="./assets/images/Social/instagram.svg" alt="Instagram" height="50" width="40"/>
   </a>
   <!-- Dribble -->
-  <a href="https://dribbble.com/mahfujurrahman12?onboarding=true" target="blank">
+  <a href="https://dribbble.com/mahfujurrahman12">
     <img align="center" src="./assets/images/Social/dribbble.svg" alt="Dribble" height="50" width="40"/>
   </a>
   <!-- Behance -->
-  <a href="https://www.behance.net/mahfujurrahman7" target="blank">
+  <a href="https://www.behance.net/mahfujurrahman7">
     <img align="center" src="./assets/images/Social/behance.svg" alt="Behance" height="50" width="40"/>
   </a>
   <!-- Medium -->
-  <a href="https://medium.com/@mahfujurrahman06627" target="blank">
+  <a href="https://medium.com/@mahfujurrahman06627">
     <img align="center" src="./assets/images/Social/medium.svg" alt="Medium" height="50" width="40"/>
   </a>
   <!-- Youtube -->
-  <a href="https://www.youtube.com/channel/UC9SDPdQThSsmt-otB7fYs8g" target="blank">
+  <a href="https://www.youtube.com/channel/UC9SDPdQThSsmt-otB7fYs8g">
     <img align="center" src="./assets/images/Social/youtube.svg" alt="Youtube" height="50" width="40"/>
   </a>
 </p><br>
@@ -69,82 +69,82 @@
 
 <p align="center">
   <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mongodb.com/" rel="noreferrer">
     <img src="./assets/images/icons/mongo.png" alt="mongodb" width="80" height="80"/>
   </a>
   <!-- Express -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/express.png" alt="express" width="80" height="80" background-color='white' />
+  <a href="https://expressjs.com" rel="noreferrer">
+    <img src="./assets/images/icons/express.png" alt="express" width="80" height="80" background-color='white'/>
   </a>
   <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://reactjs.org/" rel="noreferrer">
     <img src="./assets/images/icons/react.png" alt="react" width="80" height="80"/>
   </a>
   <!-- Next_js -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://nextjs.org/" rel="noreferrer">
     <img src="./assets/images/icons/NextJs.png" alt="nextJs" width="80" height="80"/>
   </a>
   <!-- Java-Script -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer">
     <img src="./assets/images/icons/JavaScript.png" alt="javascript" width="80" height="80"/>
   </a>
   <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <a href="https://firebase.google.com/" rel="noreferrer">
     <img src="./assets/images/icons/firebase.png" alt="firebase" width="80" height="80"/>
   </a>
 </p><br>
 
 <p align='center'>
   <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/"  rel="noreferrer">
     <img src="./assets/images/icons/HTML.png" alt="html5" width="80" height="80"/>
   </a>
   <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/css/"  rel="noreferrer">
     <img src="./assets/images/icons/css.png" alt="css3" width="80" height="80"/>
   </a>
   <!-- Tailwind -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://tailwindcss.com/"  rel="noreferrer">
     <img src="./assets/images/icons/tailwind.png" alt="tailwind" width="80" height="80"/>
   </a>
   <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://getbootstrap.com"  rel="noreferrer">
   <img src="./assets/images/icons/bootstrap.png" alt="bootstrap" width="80" height="80"/>
   </a>
   <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.figma.com/"  rel="noreferrer">
     <img src="./assets/images/icons/figma.png" alt="figma" width="80" height="80"/>
   </a>
   <!-- git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/"  rel="noreferrer">
     <img src="./assets/images/icons/git.svg" alt="git" width="80" height="80"/>
   </a>
 </p><br>
 
 <p align='center'>
   <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org"  rel="noreferrer">
     <img src="./assets/images/icons/python.png" alt="python" width="80" height="80"/>
   </a>
   <!-- Selenium -->
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+  <a href="https://www.selenium.dev"  rel="noreferrer">
     <img src="./assets/images/icons/selenium.svg" alt="selenium" width="80" height="80"/>
   </a>
   <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="./assets/images/icons/c.png" alt="c" width="80" height="80"/> 
+  <a href="https://www.cprogramming.com/"  rel="noreferrer">
+    <img src="./assets/images/icons/c.png" alt="c" width="80" height="80"/>
   </a>
   <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.w3schools.com/cpp/"  rel="noreferrer">
     <img src="./assets/images/icons/cpp.png" alt="cpp" width="80" height="80"/>
   </a>
   <!-- C# -->
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/cs/"  rel="noreferrer">
     <img src="./assets/images/icons/C_sharp.png" alt="csharp" width="70" height="75"/>
   </a>
   <!-- arduino -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="./assets/images/icons/arduino.png" alt="arduino" width="70" height="75"/> 
+  <a href="https://www.arduino.cc/"  rel="noreferrer">
+    <img src="./assets/images/icons/arduino.png" alt="arduino" width="70" height="75"/>
   </a>
 </p><br>
 
