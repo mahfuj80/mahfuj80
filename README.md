@@ -175,7 +175,7 @@ I am a Front-End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </p><br><br>
 <!-- Waves -->
 
-![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
+![Waves](./assets/images/wave.svg)
 
 <!-- ### ✍️ Blog Posts : -->
 
