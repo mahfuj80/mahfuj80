@@ -170,7 +170,7 @@ I am a Front-End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </h2><br>
 <p>
   <a href="https://www.buymeacoffee.com/mahfuj80">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mahfuj80" />
+    <img align="left" src="./assets/images/buy-me-a-coffee.png" height="50" width="210" alt="Coffee_Mug"/>
   </a>
 </p><br><br>
 <!-- Waves -->
