@@ -21,7 +21,7 @@
 
 <p align="center">
   <!-- Dev-Community -->
-    <a href="https://dev.to/mahfujurrahman" target="blank">
+    <a href="https://dev.to/mahfujurrahman" target="_blank">
       <img align="center" src="./assets/images/Social/devTo.svg" alt="mahfujurrahman" height="50" width="40" />
     </a>
   <!-- Twitter -->
