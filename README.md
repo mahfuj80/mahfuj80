@@ -21,8 +21,8 @@
 
 <p align="center">
   <!-- Dev-Community -->
-    <a href="https://dev.to/mahfujurrahman">
-     <img align="center" src="./assets/images/Social/devTo.svg" alt="mahfujurrahman" height="50" width="40"/>
+    <a href="https://dev.to/mahfujurrahman" target="blank">
+      <img align="center" src="./assets/images/Social/devTo.svg" alt="mahfujurrahman" height="50" width="40" />
     </a>
   <!-- Twitter -->
   <a href="https://twitter.com/Mahfuj_A_A_">
@@ -70,81 +70,81 @@
 <p align="center">
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" rel="noreferrer">
-    <img src="./assets/images/icons/mongo.png" alt="mongodb" width="80" height="80"/>
+    <img src="./assets/images/icons/mongo.png" alt="mongodb" width="70" height="70"/>
   </a>
   <!-- Express -->
   <a href="https://expressjs.com" rel="noreferrer">
-    <img src="./assets/images/icons/express.png" alt="express" width="80" height="80" background-color='white'/>
+    <img src="./assets/images/icons/express.png" alt="express" width="70" height="70" background-color='white'/>
   </a>
   <!-- React -->
   <a href="https://reactjs.org/" rel="noreferrer">
-    <img src="./assets/images/icons/react.png" alt="react" width="80" height="80"/>
+    <img src="./assets/images/icons/react.png" alt="react" width="70" height="70"/>
   </a>
   <!-- Next_js -->
   <a href="https://nextjs.org/" rel="noreferrer">
-    <img src="./assets/images/icons/NextJs.png" alt="nextJs" width="80" height="80"/>
+    <img src="./assets/images/icons/NextJs.png" alt="nextJs" width="70" height="70"/>
   </a>
   <!-- Java-Script -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer">
-    <img src="./assets/images/icons/JavaScript.png" alt="javascript" width="80" height="80"/>
+    <img src="./assets/images/icons/JavaScript.png" alt="javascript" width="70" height="70"/>
   </a>
   <!-- Firebase -->
   <a href="https://firebase.google.com/" rel="noreferrer">
-    <img src="./assets/images/icons/firebase.png" alt="firebase" width="80" height="80"/>
+    <img src="./assets/images/icons/firebase.png" alt="firebase" width="70" height="70"/>
   </a>
 </p><br>
 
 <p align='center'>
   <!-- HTML -->
   <a href="https://www.w3.org/html/"  rel="noreferrer">
-    <img src="./assets/images/icons/HTML.png" alt="html5" width="80" height="80"/>
+    <img src="./assets/images/icons/HTML.png" alt="html5" width="70" height="70"/>
   </a>
   <!-- CSS -->
   <a href="https://www.w3schools.com/css/"  rel="noreferrer">
-    <img src="./assets/images/icons/css.png" alt="css3" width="80" height="80"/>
+    <img src="./assets/images/icons/css.png" alt="css3" width="70" height="70"/>
   </a>
   <!-- Tailwind -->
   <a href="https://tailwindcss.com/"  rel="noreferrer">
-    <img src="./assets/images/icons/tailwind.png" alt="tailwind" width="80" height="80"/>
+    <img src="./assets/images/icons/tailwind.png" alt="tailwind" width="70" height="70"/>
   </a>
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com"  rel="noreferrer">
-  <img src="./assets/images/icons/bootstrap.png" alt="bootstrap" width="80" height="80"/>
+  <img src="./assets/images/icons/bootstrap.png" alt="bootstrap" width="70" height="70"/>
   </a>
   <!-- Figma -->
   <a href="https://www.figma.com/"  rel="noreferrer">
-    <img src="./assets/images/icons/figma.png" alt="figma" width="80" height="80"/>
+    <img src="./assets/images/icons/figma.png" alt="figma" width="70" height="70"/>
   </a>
   <!-- git -->
   <a href="https://git-scm.com/"  rel="noreferrer">
-    <img src="./assets/images/icons/git.svg" alt="git" width="80" height="80"/>
+    <img src="./assets/images/icons/git.svg" alt="git" width="70" height="70"/>
   </a>
 </p><br>
 
 <p align='center'>
   <!-- Python -->
   <a href="https://www.python.org"  rel="noreferrer">
-    <img src="./assets/images/icons/python.png" alt="python" width="80" height="80"/>
+    <img src="./assets/images/icons/python.png" alt="python" width="70" height="70"/>
   </a>
   <!-- Selenium -->
   <a href="https://www.selenium.dev"  rel="noreferrer">
-    <img src="./assets/images/icons/selenium.svg" alt="selenium" width="80" height="80"/>
+    <img src="./assets/images/icons/selenium.svg" alt="selenium" width="70" height="70"/>
   </a>
   <!-- C -->
   <a href="https://www.cprogramming.com/"  rel="noreferrer">
-    <img src="./assets/images/icons/c.png" alt="c" width="80" height="80"/>
+    <img src="./assets/images/icons/c.png" alt="c" width="70" height="70"/>
   </a>
   <!-- C++ -->
   <a href="https://www.w3schools.com/cpp/"  rel="noreferrer">
-    <img src="./assets/images/icons/cpp.png" alt="cpp" width="80" height="80"/>
+    <img src="./assets/images/icons/cpp.png" alt="cpp" width="70" height="70"/>
   </a>
   <!-- C# -->
   <a href="https://www.w3schools.com/cs/"  rel="noreferrer">
-    <img src="./assets/images/icons/C_sharp.png" alt="csharp" width="70" height="75"/>
+    <img src="./assets/images/icons/C_sharp.png" alt="csharp" width="60" height="65"/>
   </a>
   <!-- arduino -->
   <a href="https://www.arduino.cc/"  rel="noreferrer">
-    <img src="./assets/images/icons/arduino.png" alt="arduino" width="70" height="75"/>
+    <img src="./assets/images/icons/arduino.png" alt="arduino" width="60" height="65"/>
   </a>
 </p><br>
 
