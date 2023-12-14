@@ -154,11 +154,11 @@
 </h1><br>
 <p>I am a Front-End Developer from Bangladesh. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" inline/></p>
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I Like to Create New and critical web applications. That helps in real-world scenarios.
 
 - 🌱 Exploring Technical Content Writing.
 
-- ⚡ I solve problems on GeeksforGeeks and read tech articles in my free time.
+- ⚡ I love to learn new thing every day.
 
 - 📫 How to reach me- mahfujurrahman06627@gmal.com
 
