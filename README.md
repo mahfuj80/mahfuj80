@@ -80,6 +80,10 @@
   <a href="https://reactjs.org/" rel="noreferrer" style="text-decoration: none;">
     <img src="./assets/images/icons/react.png" alt="react" width="70" height="70"/>
   </a>
+  <!-- Node -->
+  <a href="https://nodejs.org/" rel="noreferrer" style="text-decoration: none;">
+    <img src="./assets/images/icons/node.png" alt="react" width="70" height="70"/>
+  </a>
   <!-- Next_js -->
   <a href="https://nextjs.org/" rel="noreferrer" style="text-decoration: none;">
     <img src="./assets/images/icons/NextJs.png" alt="nextJs" width="70" height="70"/>
