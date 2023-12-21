@@ -20,7 +20,7 @@
 </h2><br>
 
 <p align="center">
-  <!-- Dev-Community -->
+  <!-- Dev-Communitys-->
     <a href="https://dev.to/mahfujurrahman" rel="noreferrer" style="text-decoration: none;">
       <img align="center" src="./assets/images/Social/devTo.svg" alt="mahfujurrahman" height="50" width="40" />
     </a>
