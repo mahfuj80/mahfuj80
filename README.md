@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="./assets/images/banner.png" alt="Md. Mahfujur Rahman - Full-Stack Software Engineer & AI-Augmented Developer" width="100%" style="border-radius: 16px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);"/>
+  <img src="./assets/images/banner.png" alt="Md. Mahfujur Rahman - Full-Stack & Systems Architect" width="100%" style="border-radius: 16px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);"/>
 </div>
 
 <br>
@@ -9,7 +9,7 @@
 
   <!-- Typewriter / Subtitle Tagline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Full-Stack+Software+Engineer+%7C+NestJS+%2B+Next.js;AI-Augmented+Engineer+%26+Automation+Builder;Architecting+Scalable+SaaS+%26+Distributed+APIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Full-Stack+%26+Systems+Architect+%7C+NestJS+%E2%80%A2+Next.js;Cross-Platform+Engineer+%7C+Web+%E2%80%A2+Desktop+(Tauri)+%E2%80%A2+Mobile;High-Availability+Infra+%7C+Linux+%E2%80%A2+Load+Balancing+%E2%80%A2+Docker;AI-Augmented+Automation+%26+Scalable+SaaS+Systems" alt="Typing SVG" />
   </a>
 
   <!-- Social & Direct Badges -->
@@ -35,28 +35,30 @@
 
 ---
 
-### 👨‍💻 Executive Summary
+### 👨‍💻 Architecture & Systems Profile
 
-I am a **Dhaka-based Full-Stack Software Engineer** specializing in architecting and scaling production-grade web applications, SaaS platforms, and distributed APIs. I believe in taking **extreme ownership** of the products I build—bridging the gap between robust system engineering, high-performance architecture, and real business objectives.
+I am a **Full-Stack Software Engineer & Systems Architect** based in Dhaka, focused on designing high-availability web platforms, cross-platform client applications, and resilient cloud architectures. I operate with **extreme technical ownership**—bridging the gap between low-level system performance, clean architectural boundaries, and strategic business velocity.
 
-I lean heavily into **AI-augmented development** and modern tooling to eliminate routine friction, accelerate delivery cycles, and dedicate maximum focus to high-level system design, security, and scalable multi-tenant architecture.
+I believe in **radical technical adaptability**: no platform boundary or engineering blocker is off-limits. Whether architecting distributed microservices, building cross-platform desktop runtimes (**Tauri**) and mobile apps (**React Native / Flutter**), configuring load-balanced **Linux** clusters, or engineering custom **WordPress plugins** and Gutenberg blocks from scratch—I take complete responsibility from initial problem analysis to zero-downtime production deployment.
 
-- 🔭 **Focus:** Architecting enterprise backends, scalable SaaS platforms, and distributed systems with **NestJS**, **Next.js**, and modern **AI workflows**.
-- 💡 **Core Mindset:** Beyond asking *"How do I build this?"*, I architect around *"How do we automate, monetize, secure, and scale this?"*
-- 🚀 **Specializations:** Multi-tenant SaaS architectures, custom API networks, autonomous AI agents & workflow automation (n8n, MCP, RAG), and payment gateway integrations.
+- 🔭 **Architectural Focus:** Distributed microservices, enterprise backends (**NestJS**, **Node.js**, **Django**), modern client platforms (**Next.js**, **Tauri**, **React Native**), and high-availability Linux infrastructure.
+- ⚙️ **Infrastructure & Scalability:** Traffic management, reverse proxies & **load balancing (Nginx)**, container orchestration (**Docker**, **Kubernetes**), and cloud provisioning (**AWS**, **DigitalOcean**).
+- 💡 **Senior Mindset:** Systems must be self-healing, automated, maintainable, and cost-efficient. Code is not just written to function—it is structured to scale and outlive team transitions.
+- 💳 **Payment & Monetization Architecture:** Production-ready billing engines across global fiat & cryptocurrency gateways (**Stripe**, **NOWPayments**, **Plisio**, **SSLCommerz**, and multi-chain crypto settlement: BTC, ETH, USDT, SOL).
+- 🤖 **AI-Augmented Velocity:** Utilizing agentic orchestration (**MCP**, **LangChain**, **n8n**) and semantic RAG systems to supercharge execution and eliminate operational friction.
 
 ---
 
 ### 💼 Professional Experience
 
 - **Full Stack Developer** — **Betopia Group** `(Oct 2025 – Present)`
-  - Leading backend architecture and service modularization using NestJS and Prisma.
-  - Conducting technical domain analysis and managing server orchestration across AWS (EC2) and DigitalOcean.
+  - Leading backend architecture and microservice modularization using NestJS, Prisma, and PostgreSQL.
+  - Designing fault-tolerant database schemas, high-throughput REST APIs, and automated deployment flows across AWS (EC2) and DigitalOcean.
 - **Next.js Developer** — **NEXSTACK** `(Sep 2024 – Sep 2025)`
-  - Architected SEO-optimized web applications with Next.js App Router and TypeScript.
-  - Integrated production-grade REST and GraphQL endpoints with seamless caching and hydration.
+  - Architected enterprise-grade, SEO-optimized web applications utilizing Next.js App Router and TypeScript.
+  - Engineered seamless state hydration, caching strategies, and robust client-side architecture.
 - **Junior Web Developer** — **Lyricz Software** `(Aug 2023 – Aug 2024)`
-  - Engineered full-stack features, designed core database schemas, and built responsive UI systems with React and Tailwind CSS.
+  - Built full-stack features, designed core relational schemas, and delivered responsive design systems across all device viewports.
 
 ---
 
@@ -64,14 +66,16 @@ I lean heavily into **AI-augmented development** and modern tooling to eliminate
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
+| Domain | Technologies & Systems |
 | :--- | :--- |
-| **Frontend Engineering** | `Next.js (App Router)` `React.js` `Vue.js` `TypeScript` `Tailwind CSS` `ShadCN UI` `React Hook Form` `Zustand` `React Native` |
-| **Backend & Microservices** | `NestJS` `Node.js` `Express.js` `Django` `FastAPI` `Strapi` `Prisma ORM` `GraphQL` `REST APIs` |
-| **Databases & Caching** | `PostgreSQL` `pgvector` `TimescaleDB` `MongoDB` `MySQL` `Redis` |
-| **Cloud, DevOps & Infra** | `Docker` `Nginx` `AWS (EC2)` `DigitalOcean (Droplets)` `MinIO` `GitHub Actions (CI/CD)` `Linux` |
-| **AI, RAG & Automation** | `LangChain` `Retrieval-Augmented Generation (RAG)` `Vector DBs` `n8n` `AI Agents` `Model Context Protocol (MCP)` `Ollama` |
-| **Payments & Integrations** | `Stripe` `SSLCommerz` `OAuth 2.0` `Webhooks` |
+| **Backend & Microservices** | `NestJS` `Node.js` `Express.js` `FastAPI` `Django` `GraphQL` `REST APIs` `Prisma ORM` |
+| **Frontend & Web Platforms** | `Next.js (App Router)` `React.js` `Vue.js` `TypeScript` `Tailwind CSS` `ShadCN UI` `Zustand` |
+| **Cross-Platform (Desktop & Mobile)** | `Tauri (Rust + Web Desktop)` `React Native` `Flutter` |
+| **DevOps, Infra & Cloud** | `Linux` `Nginx (Reverse Proxy & Load Balancing)` `Docker` `Kubernetes (K8s)` `AWS (EC2)` `DigitalOcean` `GitHub Actions (CI/CD)` |
+| **Databases & Distributed Storage** | `PostgreSQL` `pgvector` `TimescaleDB` `MongoDB` `MySQL` `Redis` `MinIO` |
+| **CMS & Plugin Engineering** | `WordPress (Custom Plugins & Themes)` `Gutenberg Blocks (block.json)` `PHP` `Headless CMS` |
+| **AI, RAG & Automation** | `LangChain` `Semantic RAG` `Vector Databases` `n8n` `Autonomous AI Agents` `Model Context Protocol (MCP)` `Ollama` |
+| **Payments, Crypto & Billing** | `Stripe` `NOWPayments` `Plisio` `Crypto Payment Gateways (BTC, ETH, USDT, SOL)` `SSLCommerz` `Webhooks` `OAuth 2.0` `Event-Driven Billing` |
 
 </div>
 
@@ -83,27 +87,33 @@ I lean heavily into **AI-augmented development** and modern tooling to eliminate
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crypto_Payments-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/NOWPayments_%26_Plisio-0052FF?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 </div>
 
 ---
 
-### 📐 Engineering Philosophy & Product Mindset
+### 📐 Senior Engineering & Architectural Principles
 
-1. **Separation of Concerns & Modularity:**  
-   Strict isolation of business logic from UI components via specialized services, server actions, and centralized state stores. Codebases must stay scalable, maintainable, and testable.
-2. **Product & SaaS First:**  
-   Focusing heavily on production readiness: automated tenant provisioning, dynamic custom subdomains, subscription lifecycles, and resilient database migrations.
-3. **Automated & AI-Augmented Pipelines:**  
-   Integrating intelligent workflows (agentic assistants, semantic RAG pipelines, n8n automations) to replace tedious manual processes with intelligent software.
+1. **Radical Technical Adaptability & Problem Resolution:**  
+   No platform bottleneck is insurmountable. If an application demands low-resource desktop performance, I compile with **Tauri**; if mobile users need native experiences, I build with **React Native / Flutter**; if custom CMS workflows require bespoke logic, I engineer custom **WordPress plugins** and Gutenberg blocks from first principles.
+2. **High Availability & Fault Tolerance:**  
+   Architecting for zero single-points-of-failure. Enforcing active **load balancing**, reverse proxy routing with **Nginx**, horizontal container autoscaling with **Docker & Kubernetes**, resilient database connection pooling, and distributed caching with Redis.
+3. **Domain Modularity & Separation of Concerns:**  
+   Strict isolation between business domain logic, presentation layers, and infrastructure adapters. Codebases remain testable, refactorable, and clean across long-term product lifecycles.
+4. **Automated & AI-Augmented Pipelines:**  
+   Integrating intelligent workflow automation (agentic orchestration, semantic search/RAG, and n8n pipelines) to turn complex manual overhead into streamlined, self-managing software.
 
 ---
 
