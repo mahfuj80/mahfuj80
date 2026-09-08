@@ -41,39 +41,22 @@ I am a **Dhaka-based Full-Stack Software Engineer** specializing in architecting
 
 I lean heavily into **AI-augmented development** and modern tooling to eliminate routine friction, accelerate delivery cycles, and dedicate maximum focus to high-level system design, security, and scalable multi-tenant architecture.
 
-- 🔭 **Currently:** Leading backend development & infrastructure at **Betopia Group** with **NestJS**, **AWS**, and **Docker**.
+- 🔭 **Focus:** Architecting enterprise backends, scalable SaaS platforms, and distributed systems with **NestJS**, **Next.js**, and modern **AI workflows**.
 - 💡 **Core Mindset:** Beyond asking *"How do I build this?"*, I architect around *"How do we automate, monetize, secure, and scale this?"*
-- 🚀 **Specializations:** Multi-tenant SaaS architectures, custom API reseller networks, autonomous AI agents & workflow automation (n8n, MCP, RAG), and payment gateway integrations.
+- 🚀 **Specializations:** Multi-tenant SaaS architectures, custom API networks, autonomous AI agents & workflow automation (n8n, MCP, RAG), and payment gateway integrations.
 
 ---
 
 ### 💼 Professional Experience
 
-```yaml
-Current Role:
-  Position: Full Stack Developer
-  Company: Betopia Group
-  Period: Oct 2025 – Present
-  Key Impact:
-    - Leading enterprise backend architecture and service modularization using NestJS and Prisma.
-    - Conducting deep technical business analysis to map complex domain logic into scalable schemas.
-    - Managing end-to-end server orchestration, containerization, and deployments across AWS (EC2) and DigitalOcean.
-
-Previous Experience:
-  Position: Next.js Developer
-  Company: NEXSTACK
-  Period: Sep 2024 – Sep 2025
-  Key Impact:
-    - Architected high-performance, SEO-optimized web applications with Next.js App Router and TypeScript.
-    - Integrated production-grade REST and GraphQL endpoints with seamless state hydration and caching.
-    - Standardized deployment pipelines and automated frontend QA verification workflows.
-
-  Position: Junior Web Developer
-  Company: Lyricz Software
-  Period: Aug 2023 – Aug 2024
-  Key Impact:
-    - Engineered full-stack product features, designed core relational database schemas, and built responsive UI systems with React and Tailwind CSS.
-```
+- **Full Stack Developer** — **Betopia Group** `(Oct 2025 – Present)`
+  - Leading backend architecture and service modularization using NestJS and Prisma.
+  - Conducting technical domain analysis and managing server orchestration across AWS (EC2) and DigitalOcean.
+- **Next.js Developer** — **NEXSTACK** `(Sep 2024 – Sep 2025)`
+  - Architected SEO-optimized web applications with Next.js App Router and TypeScript.
+  - Integrated production-grade REST and GraphQL endpoints with seamless caching and hydration.
+- **Junior Web Developer** — **Lyricz Software** `(Aug 2023 – Aug 2024)`
+  - Engineered full-stack features, designed core database schemas, and built responsive UI systems with React and Tailwind CSS.
 
 ---
 
@@ -136,8 +119,8 @@ Previous Experience:
 
 <div align="center">
   <a href="https://github.com/mahfuj80">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mahfuj80&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=FF8C00&text_color=E6EDF3" alt="Mahfuj's GitHub Stats" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuj80&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=E6EDF3" alt="Top Languages" />
+    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahfuj80&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=FF8C00&text_color=E6EDF3" alt="Mahfuj's GitHub Stats" />
+    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahfuj80&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=E6EDF3" alt="Top Languages" />
   </a>
 </div>
 
