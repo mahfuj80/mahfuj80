@@ -9,7 +9,7 @@
 
   <!-- Typewriter / Subtitle Tagline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Full-Stack+%26+Systems+Architect+%7C+NestJS+%E2%80%A2+Next.js;Cross-Platform+Engineer+%7C+Web+%E2%80%A2+Desktop+(Tauri)+%E2%80%A2+Mobile;High-Availability+Infra+%7C+Linux+%E2%80%A2+Load+Balancing+%E2%80%A2+Docker;AI-Augmented+Automation+%26+Scalable+SaaS+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Full-Stack+%26+Systems+Architect+%7C+NestJS+%E2%80%A2+Next.js;Cross-Platform+Engineer+%7C+Web+%E2%80%A2+Desktop+(Tauri)+%E2%80%A2+Mobile;High-Availability+Infra+%7C+Linux+%E2%80%A2+Load+Balancing+%E2%80%A2+Docker;AI-Augmented+Automation+%26+Scalable+SaaS+Systems" alt="Typing SVG" />
   </a>
 
   <!-- Social & Direct Badges -->
@@ -129,15 +129,15 @@ I believe in **radical technical adaptability**: no platform boundary or enginee
 
 <div align="center">
   <a href="https://github.com/mahfuj80">
-    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahfuj80&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=FF8C00&text_color=E6EDF3" alt="Mahfuj's GitHub Stats" />
-    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahfuj80&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=E6EDF3" alt="Top Languages" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mahfuj80&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=FF8C00&text_color=E6EDF3" alt="Mahfuj's GitHub Stats" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuj80&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=E6EDF3" alt="Top Languages" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahfuj80&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F2FE&ring=00F2FE&fire=FF8C00&currStreakLabel=00F2FE" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mahfuj80&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F2FE&ring=00F2FE&fire=FF8C00&currStreakLabel=00F2FE" alt="GitHub Streak"/>
 </div>
 
 ---
