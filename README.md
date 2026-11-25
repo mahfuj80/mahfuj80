@@ -26,7 +26,7 @@
     <a href="https://medium.com/@mahfujurrahman06627">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
     </a>
-    <a href="https://twitter.com/Mahfuj_A_A_">
+    <a href="https://twitter.com/Mahfujur06627">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
   </p>
@@ -37,15 +37,15 @@
 
 ### 👨‍💻 Architecture & Systems Profile
 
-I am a **Full-Stack Software Engineer & Systems Architect** based in Dhaka, focused on designing high-availability web platforms, cross-platform client applications, and resilient cloud architectures. I operate with **extreme technical ownership**—bridging the gap between low-level system performance, clean architectural boundaries, and strategic business velocity.
+I'm a **Full-Stack Software Engineer & Systems Architect** based in Dhaka. I build high-availability web platforms, cross-platform apps and the cloud infrastructure they run on, and I own each project from the first requirement to production.
 
-I believe in **radical technical adaptability**: no platform boundary or engineering blocker is off-limits. Whether architecting distributed microservices, building cross-platform desktop runtimes (**Tauri**) and mobile apps (**React Native / Flutter**), configuring load-balanced **Linux** clusters, or engineering custom **WordPress plugins** and Gutenberg blocks from scratch—I take complete responsibility from initial problem analysis to zero-downtime production deployment.
+My work spans distributed microservices, desktop apps (**Tauri**), mobile apps (**React Native / Flutter**), load-balanced **Linux** servers, and custom **WordPress plugins** and Gutenberg blocks, from problem analysis to zero-downtime deployment.
 
-- 🔭 **Architectural Focus:** Distributed microservices, enterprise backends (**NestJS**, **Node.js**, **Django**), modern client platforms (**Next.js**, **Tauri**, **React Native**), and high-availability Linux infrastructure.
+- 🔭 **Focus:** Distributed microservices, enterprise backends (**NestJS**, **Node.js**, **Django**), modern client platforms (**Next.js**, **Tauri**, **React Native**), and high-availability Linux infrastructure.
 - ⚙️ **Infrastructure & Scalability:** Traffic management, reverse proxies & **load balancing (Nginx)**, container orchestration (**Docker**, **Kubernetes**), and cloud provisioning (**AWS**, **DigitalOcean**).
-- 💡 **Senior Mindset:** Systems must be self-healing, automated, maintainable, and cost-efficient. Code is not just written to function—it is structured to scale and outlive team transitions.
-- 💳 **Payment & Monetization Architecture:** Production-ready billing engines across global fiat & cryptocurrency gateways (**Stripe**, **NOWPayments**, **Plisio**, **SSLCommerz**, and multi-chain crypto settlement: BTC, ETH, USDT, SOL).
-- 🤖 **AI-Augmented Velocity:** Utilizing agentic orchestration (**MCP**, **LangChain**, **n8n**) and semantic RAG systems to supercharge execution and eliminate operational friction.
+- 💡 **How I build:** automated, maintainable, cost-efficient systems, with code structured so the next team can extend it.
+- 💳 **Payments & Billing:** production billing with **Stripe**, **NOWPayments**, **Plisio** and **SSLCommerz**, including crypto payments (BTC, ETH, USDT, SOL).
+- 🤖 **AI & Automation:** agent workflows (**MCP**, **LangChain**, **n8n**) and RAG search to automate repetitive work.
 
 ---
 
@@ -55,8 +55,8 @@ I believe in **radical technical adaptability**: no platform boundary or enginee
   - Leading backend architecture and microservice modularization using NestJS, Prisma, and PostgreSQL.
   - Designing fault-tolerant database schemas, high-throughput REST APIs, and automated deployment flows across AWS (EC2) and DigitalOcean.
 - **Next.js Developer** — **NEXSTACK** `(Sep 2024 – Sep 2025)`
-  - Architected enterprise-grade, SEO-optimized web applications utilizing Next.js App Router and TypeScript.
-  - Engineered seamless state hydration, caching strategies, and robust client-side architecture.
+  - Built SEO-optimized web applications with the Next.js App Router and TypeScript.
+  - Worked on state hydration, caching strategies and client-side architecture.
 - **Junior Web Developer** — **Lyricz Software** `(Aug 2023 – Aug 2024)`
   - Built full-stack features, designed core relational schemas, and delivered responsive design systems across all device viewports.
 
@@ -104,16 +104,16 @@ I believe in **radical technical adaptability**: no platform boundary or enginee
 
 ---
 
-### 📐 Senior Engineering & Architectural Principles
+### 📐 Engineering Principles
 
-1. **Radical Technical Adaptability & Problem Resolution:**  
-   No platform bottleneck is insurmountable. If an application demands low-resource desktop performance, I compile with **Tauri**; if mobile users need native experiences, I build with **React Native / Flutter**; if custom CMS workflows require bespoke logic, I engineer custom **WordPress plugins** and Gutenberg blocks from first principles.
-2. **High Availability & Fault Tolerance:**  
-   Architecting for zero single-points-of-failure. Enforcing active **load balancing**, reverse proxy routing with **Nginx**, horizontal container autoscaling with **Docker & Kubernetes**, resilient database connection pooling, and distributed caching with Redis.
-3. **Domain Modularity & Separation of Concerns:**  
-   Strict isolation between business domain logic, presentation layers, and infrastructure adapters. Codebases remain testable, refactorable, and clean across long-term product lifecycles.
-4. **Automated & AI-Augmented Pipelines:**  
-   Integrating intelligent workflow automation (agentic orchestration, semantic search/RAG, and n8n pipelines) to turn complex manual overhead into streamlined, self-managing software.
+1. **Right tool for the job:**  
+   **Tauri** when a desktop app must stay light, **React Native / Flutter** for native mobile, and custom **WordPress plugins** and Gutenberg blocks when a CMS needs its own logic.
+2. **High availability:**  
+   No single points of failure: **load balancing** and reverse proxying with **Nginx**, container scaling with **Docker & Kubernetes**, database connection pooling, and caching with Redis.
+3. **Clear boundaries:**  
+   Business logic, presentation and infrastructure stay separate, so the code stays testable and easy to change over the product's life.
+4. **Automation:**  
+   Agent workflows, RAG search and n8n pipelines replace repetitive manual work.
 
 ---
 
@@ -146,7 +146,7 @@ I believe in **radical technical adaptability**: no platform boundary or enginee
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahfujur-rahman-632590202/"><img src="./assets/images/Social/linkedin.svg" alt="LinkedIn" height="42" width="42"/></a> &nbsp;&nbsp;
-  <a href="https://twitter.com/Mahfuj_A_A_"><img src="./assets/images/Social/twitter.svg" alt="Twitter" height="42" width="42"/></a> &nbsp;&nbsp;
+  <a href="https://twitter.com/Mahfujur06627"><img src="./assets/images/Social/twitter.svg" alt="Twitter" height="42" width="42"/></a> &nbsp;&nbsp;
   <a href="https://dev.to/mahfujurrahman"><img src="./assets/images/Social/devTo.svg" alt="Dev.to" height="42" width="42"/></a> &nbsp;&nbsp;
   <a href="https://medium.com/@mahfujurrahman06627"><img src="./assets/images/Social/medium.svg" alt="Medium" height="42" width="42"/></a> &nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/19129869/mahfujur-rahman"><img src="./assets/images/Social/stack-overflow.svg" alt="StackOverflow" height="42" width="42"/></a> &nbsp;&nbsp;
